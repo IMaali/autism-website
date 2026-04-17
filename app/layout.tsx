@@ -3,6 +3,14 @@ import Header from "./components/Header";
 
 import "./globals.css";
 
+export const metadata = {
+  title: "التوحد نحلم ونحقق",
+  description: "متجر مهارات أطفال التوحد",
+   icons: {
+    icon: "/favicon.ico",
+  },
+};
+
 export default function RootLayout({
   children,
 }: {
