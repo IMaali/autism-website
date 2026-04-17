@@ -1,6 +1,6 @@
 export const products = [
   {
-    title: "الكافيه والضيافة ☕",
+    title: "الكافيه والضيافة ",
     image: "https://images.unsplash.com/photo-1509042239860-f550ce710b93",
     steps: [
       "غسل اليدين قبل البدء",
@@ -13,7 +13,7 @@ export const products = [
     ],
   },
   {
-    title: "إعداد وجبة خفيفة 🥪",
+    title: "إعداد وجبة خفيفة ",
     image: "https://images.unsplash.com/photo-1551782450-a2132b4ba21d",
     steps: [
       "غسل اليدين جيداً",
@@ -27,7 +27,7 @@ export const products = [
     ],
   },
   {
-    title: "سلطة فواكه 🍓",
+    title: "سلطة فواكه ",
     image: "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce",
     steps: [
       "غسل اليدين",
@@ -39,7 +39,7 @@ export const products = [
     ],
   },
   {
-    title: "فطور متكامل 🍳",
+    title: "فطور متكامل ",
     image: "https://images.unsplash.com/photo-1504754524776-8f4f37790ca0",
     steps: [
       "غسل اليدين",
@@ -52,7 +52,7 @@ export const products = [
     ],
   },
   {
-    title: "التكنولوجيا 💻",
+    title: "التكنولوجيا ",
     image: "https://images.unsplash.com/photo-1518779578993-ec3579fee39f",
     steps: [
       "تشغيل الكمبيوتر",
@@ -65,7 +65,7 @@ export const products = [
     ],
   },
   {
-    title: "التجارة والبيع 🛍️",
+    title: "التجارة والبيع ",
     image: "https://images.unsplash.com/photo-1607083206869-4c7672e72a8a",
     steps: [
       "تجهيز المنتجات",
@@ -77,7 +77,7 @@ export const products = [
     ],
   },
   {
-    title: "تغليف الهدايا 🎁",
+    title: "تغليف الهدايا ",
     image: "https://images.unsplash.com/photo-1512909006721-3d6018887383",
     steps: [
       "اختيار العلبة المناسبة",
@@ -88,7 +88,7 @@ export const products = [
     ],
   },
   {
-    title: "الزراعة 🌱",
+    title: "الزراعة ",
     image: "https://images.unsplash.com/photo-1466692476868-aef1dfb1e735",
     steps: [
       "تجهيز التربة",
@@ -100,7 +100,7 @@ export const products = [
     ],
   },
   {
-    title: "الخياطة 🧵",
+    title: "الخياطة ",
     image: "https://images.unsplash.com/photo-1582735689369-4fe89db7114c",
     steps: [
       "تشغيل ماكينة الخياطة",
@@ -112,7 +112,7 @@ export const products = [
     ],
   },
   {
-    title: "صناعة العطور 🌸",
+    title: "صناعة العطور ",
     image: "https://images.unsplash.com/photo-1594035910387-fea47794261f",
     steps: [
       "تجهيز الزجاجة",
@@ -124,7 +124,7 @@ export const products = [
     ],
   },
   {
-    title: "الأعمال اليدوية 🎨",
+    title: "الأعمال اليدوية ",
     image: "https://images.unsplash.com/photo-1519710164239-da123dc03ef4",
     steps: [
       "تجهيز الأدوات",
@@ -135,7 +135,7 @@ export const products = [
     ],
   },
   {
-    title: "إعادة التدوير ♻️",
+    title: "إعادة التدوير ",
     image: "https://images.unsplash.com/photo-1506806732259-39c2d0268443",
     steps: [
       "جمع المواد",

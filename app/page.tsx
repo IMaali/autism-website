@@ -15,7 +15,7 @@ export default function Home() {
 
       <section className="bg-blue-50 py-10 text-center">
         <h1 className="text-3xl font-bold text-black mb-3">
-          التوحد نحلم ونحقق 💙
+          التوحد نحلم ونحقق 
         </h1>
         <p className="text-gray-600">
           منتجات مميزة صُنعت بإبداع أطفال التوحد
