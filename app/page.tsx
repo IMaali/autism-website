@@ -54,7 +54,7 @@ export default function Home() {
             {/* ❌ Close */}
             <button
               onClick={() => setSelected(null)}
-              className="absolute top-2 left-3 text-gray-500 text-xl"
+              className="absolute top-2 left-3 text-black text-xl"
             >
               ✕
             </button>
@@ -64,11 +64,11 @@ export default function Home() {
               className="w-full h-48 object-cover rounded mb-4"
             />
 
-            <h2 className="text-xl font-bold mb-3">
+            <h2 className="text-xl font-bold mb-3 text-black">
               {selected.title}
             </h2>
 
-            <h3 className="font-semibold mb-2">الخطوات:</h3>
+            <h3 className="font-semibold mb-2 text-black">الخطوات:</h3>
             <ul className="list-disc pr-5 text-sm text-gray-700">
               {selected.steps.map((step: string, i: number) => (
                 <li key={i}>{step}</li>
